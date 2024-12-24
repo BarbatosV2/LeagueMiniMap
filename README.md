@@ -19,9 +19,6 @@ This is the show case, I might add AI enemy detection later on.
 I recommand you to edit these code region for your needs.
 
 ```
-screen_width = 2560  # Replace with your screen's actual width
-screen_height = 1440  # Replace with your screen's actual height
-
 # Define the region for the bottom-right corner (1080p size)
 region = {
     "top": screen_height - 720,  # Y-coordinate (start from bottom)
