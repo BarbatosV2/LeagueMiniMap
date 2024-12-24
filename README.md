@@ -12,7 +12,7 @@ This is the show case, I might add AI enemy detection later on.
 
 # Application Download Link
 
-[Rampardos/LeagueMiniMap](https://huggingface.co/Rampardos/LeagueMiniMap)  (Hugging Face Link)
+[[Rampardos/LeagueMiniMap](https://huggingface.co/Rampardos/LeagueMiniMap)](https://huggingface.co/Rampardos/LeagueMiniMap/tree/main)  (Hugging Face Link)
 
 # Edit according to your needs
 
