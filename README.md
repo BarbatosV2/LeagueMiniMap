@@ -10,6 +10,10 @@ This is the show case, I might add AI enemy detection later on.
 
 ![FullSizeRender](https://github.com/user-attachments/assets/cd062e96-4812-4afd-bc21-987d615441e3)
 
+# Application Download Link
+
+[Rampardos/LeagueMiniMap](https://huggingface.co/Rampardos/LeagueMiniMap)  (Hugging Face Link)
+
 # Edit according to your needs
 
 I recommand you to edit these code region for your needs.
