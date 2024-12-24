@@ -8,7 +8,8 @@ This is it, this is the thing u want.
 
 This is the show case, I might add AI enemy detection later on. 
 
-![FullSizeRender](https://github.com/user-attachments/assets/cd062e96-4812-4afd-bc21-987d615441e3)
+![FullSizeRender - Copy](https://github.com/user-attachments/assets/84c73a73-2b95-49e4-99ce-3cf33b1c86ea)
+
 
 # Application Download Link
 
