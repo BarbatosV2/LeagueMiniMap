@@ -50,6 +50,19 @@ If windows detect as malware while in compile state, simply close the windows se
 
 Setting > Privacy & Security > Windows Security > Virus & threat protection > Virus & threat protection settings ... and simply turn off all for awhile. 
 
+# Monitor Orientation Usage
+1. The best way
+
+![monitor orientation 1](https://github.com/user-attachments/assets/83d8534c-3fbb-4782-a72a-013cad34b312)
+
+2. Second best way
+
+![monitor orientation 2](https://github.com/user-attachments/assets/8f3c4fd2-09ed-4019-8bd8-441adf7a68be)
+
+I do not recommand putting on the second monitor on the left side, as might be more distracting and too much turining head around.
+
+As long as League MiniMap and Zoom in MiniMap closer, the better it will be. 
+
 # NOTE
 
 This is not a cheat software. Just a huge mini map xD.
